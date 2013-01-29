@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.gerbsen</groupId>
+  <artifactId>utk</artifactId>
+  <versioning>
+    <release>1.0.5</release>
+    <versions>
+      <version>1.0.4</version>
+      <version>1.0.5</version>
+    </versions>
+    <lastUpdated>20130129085204</lastUpdated>
+  </versioning>
+</metadata>
